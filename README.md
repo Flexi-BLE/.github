@@ -1,1 +1,1 @@
-# FlexiBLE: A toolkit for Free Living Wearable Development
+# FlexiBLE: A Toolkit for Free Living Wearable Development
