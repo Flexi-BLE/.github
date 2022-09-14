@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="resources/flexible-logo-small.png" />
+  <img src="/profile/resources/flexible-logo-small.png" />
 </p>
 
 # FlexiBLE: A Platfrom for Free Living Wearable Development
