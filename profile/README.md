@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="resources/flexible_icon_final.png" width="100"/>
-</div>
+![FlexiBLE Logo](/profile/resources/flexible_icon_final.png)
 
 #FlexiBLE: A Platfrom for Free Living Wearable Development
 
